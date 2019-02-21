@@ -3,7 +3,7 @@ A Pytorch implementation of Speech Transformer, an End-to-End Automatic Speech R
 [Reference link](https://github.com/kaituoxu/Speech-Transformer, '悬停显示')<br>
 ### First Step - Data
   Aishell-01 <br>
-  Data can be acquired from here [data](http://www.openslr.org/33/, '悬停显示').<br>
+  Data can be acquired from here [aishell-01 data](http://www.openslr.org/33/, '悬停显示').<br>
 ### Next - Data preprocess and feature Extration
   We will use kaldi toolkit for data preprocess and feature extration;<br>
   This jod will be finished in one week, because we have a lot of things to do.(20190221-20190228)<br>
