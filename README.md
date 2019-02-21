@@ -9,6 +9,6 @@ A Pytorch implementation of Speech Transformer, an End-to-End Automatic Speech R
   This jod will be finished in one week, because we have a lot of things to do.(20190221-20190228)<br>
 ###
 ### Related Papers
-  Attention Is All You Need<br>
-  SPEECH-TRANSFORMER  A NO-RECURRENCE SEQUENCE-TO-SEQUENCE MODEL<br>
-  Syllable-Based Sequence-to-Sequence Speech Recognition with the<br>
+  `Attention Is All You Need`<br>
+  `SPEECH-TRANSFORMER  A NO-RECURRENCE SEQUENCE-TO-SEQUENCE MODEL`<br>
+  `Syllable-Based Sequence-to-Sequence Speech Recognition with the`<br>
